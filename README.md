@@ -68,3 +68,4 @@ Data Source Automation: Implement a process to automatically update the dashboar
 
 
 Data Source Automation: Implement a process to automatically update the dashboard with new quarterly/annual data releases from the World Bank or similar sources.
+![Image Alt](https://github.com/Anudeepika1406/Global-ESG-Data-Analysis-Project-/blob/4541c1674c3c605e072fa332b9d688c0a5cde579/WhatsApp%20Image%202025-10-03%20at%2018.45.52_e729df01.jpg)
